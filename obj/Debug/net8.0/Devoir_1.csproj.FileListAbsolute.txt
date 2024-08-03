@@ -1,0 +1,30 @@
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\bin\Debug\net8.0\Devoir_1.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\bin\Debug\net8.0\Devoir_1.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\bin\Debug\net8.0\Devoir_1.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\bin\Debug\net8.0\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\bin\Debug\net8.0\Devoir_1.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\refint\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\Devoir_1.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Devoir_1\obj\Debug\net8.0\ref\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\bin\Debug\net8.0\Devoir_1.exe
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\bin\Debug\net8.0\Devoir_1.deps.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\bin\Debug\net8.0\Devoir_1.runtimeconfig.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\bin\Debug\net8.0\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\bin\Debug\net8.0\Devoir_1.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.AssemblyInfoInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.AssemblyInfo.cs
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.csproj.CoreCompileInputs.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.sourcelink.json
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\refint\Devoir_1.dll
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.pdb
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\Devoir_1.genruntimeconfig.cache
+C:\Users\lstcyr\OneDrive\Documents\Courses\AI\AI_CODE\C#\Homework Submited\St_Cyr_Lee_J_Vandersar_Devoir_1\Devoir_1\obj\Debug\net8.0\ref\Devoir_1.dll
